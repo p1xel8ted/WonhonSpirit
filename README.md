@@ -1,5 +1,5 @@
 # Wonhon: A Vengeful Spirit
-An ultra-wide fix for Wonhon A Vengeful Spirit that adds your main display resolution to the game and removes pillar-boxing with a few other tweaks. Uses Melon Loader.
+An ultra-wide fix for Wonhon A Vengeful Spirit that adds your main display resolution to the game, corrects UI at ultra-wide and above, and a few random tweaks. Uses Melon Loader.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F2DI3WA)<br>
 [![Github All Releases](https://img.shields.io/github/downloads/p1xel8ted/WonhonSpirit/total.svg)](https://github.com/p1xel8ted/WonhonSpirit/releases)
