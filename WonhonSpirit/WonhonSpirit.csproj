@@ -5,6 +5,10 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>disable</Nullable>
         <IsPackable>false</IsPackable>
+        <Company>p1xel8ted</Company>
+        <Product>Wonhon Spirit UltraWide Fixes</Product>
+        <AssemblyVersion>0.0.2</AssemblyVersion>
+        <FileVersion>0.0.2</FileVersion>
     </PropertyGroup>
 
     <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">

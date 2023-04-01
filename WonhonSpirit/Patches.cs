@@ -64,6 +64,13 @@ public static class Patches
     {
         return false;
     }
+    
+    // [HarmonyPrefix]
+    // [HarmonyPatch(typeof(FadeBlack), nameof(FadeBlack.Start))]
+    // public static bool FadeBlack_Start(ref FadeBlack __instance)
+    // {
+    //     return false;
+    // }
 
     private static GameObject _quitDesktopButton;
 

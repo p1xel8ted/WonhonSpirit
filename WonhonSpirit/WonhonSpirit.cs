@@ -1,7 +1,7 @@
 ﻿using MelonLoader;
 using UnityEngine;
 
-[assembly: MelonInfo(typeof(WonhonSpirit.WonhonSpirit), "Wonhon Spirit UltraWide Fixes", "0.0.1", "p1xel8ted")]
+[assembly: MelonInfo(typeof(WonhonSpirit.WonhonSpirit), "Wonhon Spirit UltraWide Fixes", "0.0.2", "p1xel8ted")]
 [assembly: MelonGame("busan_sanai_games", "Wonhon")]
 
 namespace WonhonSpirit;
